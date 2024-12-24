@@ -1,4 +1,4 @@
-# Tampermonkey Script Helper
+# tampermonkey-helper
 
 A visual tool to assist in writing Tampermonkey scripts by providing easy element selection, code generation, and script templates.
 
